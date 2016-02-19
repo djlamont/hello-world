@@ -1,6 +1,3 @@
 # hello-world
-learning the basics
-
-this is my first project
-this is just a text file
-i made some changes
+--  Using the command line now
+--  Using a the pre-installed text editor
